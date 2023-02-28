@@ -1,0 +1,2 @@
+# -nibiru_autodelegate_skript_nibiru-itn-1
+nibiru_autodelegate_skript
